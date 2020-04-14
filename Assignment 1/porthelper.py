@@ -1,4 +1,3 @@
-import binascii
 import socket
 import sys
 
